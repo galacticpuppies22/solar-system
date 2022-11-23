@@ -3,7 +3,7 @@
 1.  Launch a basic HTTP server in this project. One way is, if you have Python installed, with the command `python -m http.server`.
 2.  Open a webpage at the server's URL (standard is http://localhost:8000 )
 
-## Movement Instructions
+## Space Ship Movement Instructions
 | Action        | Effect
 |---------------|--------------------------------------------------------------------------
 | W             | Move camera foward
@@ -27,7 +27,7 @@
 | 8          | Neptune
 | 9          | Pluto
 
-Click canvas and move mouse to look around
+Click canvas and move mouse to look around. When a Celestial Body is selected, press the selection key for that Celestial Body again to teleport the space ship there.
 
 ## Sources:
 Several materials were referenced throughout the development of this project.
